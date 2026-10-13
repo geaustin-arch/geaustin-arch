@@ -9,6 +9,8 @@ I design and modernize enterprise software systems, lead distributed engineering
 - [Enterprise Knowledge Assistant](https://github.com/geaustin-arch/enterprise-knowledge-assistant) — citation-first RAG API with BM25 retrieval, evidence-grounded Gemini generation on Vertex AI, chunking, abstention, and CI.
 - [Intelligent Claims Agent](https://github.com/geaustin-arch/intelligent-claims-agent) — LangGraph workflow with deterministic policy tools, checkpointed human approval, and auditable decisions.
 - [Agentic Change Control](https://github.com/geaustin-arch/agentic-change-control) — risk-based agent orchestration with allowlisted actions, approval gates, idempotency keys, and a simulated executor.
+- [AI Incident Triage Copilot](https://github.com/geaustin-arch/ai-incident-triage) — Gemini-powered incident analysis grounded in redacted logs, citation validation, safe recommendations, and deterministic fallback.
+- [AI .NET Modernization Assessor](https://github.com/geaustin-arch/dotnet-modernization-assessor) — bounded C# signal scanning plus a Gemini migration plan grounded in validated findings.
 - [.NET Modernization Blueprint](https://github.com/geaustin-arch/dotnet-modernization-blueprint) — .NET 8 API sample with clean boundaries, safe retries, domain validation, health checks, and an outbox extension point.
 
 ## Areas of focus
